@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivity_status_online_with_type">Online (%1$s)</string>
+    <string name="connectivity_status_online_vpn">Online via VPN</string>
+    <string name="connectivity_status_offline">Offline</string>
+    <string name="connectivity_status_unstable">Connection unstable</string>
+    <string name="connectivity_status_connection_lost">Connection lost</string>
+    <string name="connectivity_type_wifi">Wi-Fi</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_type_ethernet">Ethernet</string>
+    <string name="connectivity_type_vpn">VPN</string>
+    <string name="connectivity_type_other">Other connection</string>
+    <string name="connectivity_type_unknown">Unknown</string>
+    <string name="connectivity_type_none">No connection</string>
+</resources>

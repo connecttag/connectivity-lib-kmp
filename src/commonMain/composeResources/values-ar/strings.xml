@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivity_status_online_with_type">متصل (%1$s)</string>
+    <string name="connectivity_status_online_vpn">متصل عبر VPN</string>
+    <string name="connectivity_status_offline">غير متصل</string>
+    <string name="connectivity_status_unstable">الاتصال غير مستقر</string>
+    <string name="connectivity_status_connection_lost">انقطع الاتصال</string>
+    <string name="connectivity_type_wifi">واي فاي</string>
+    <string name="connectivity_type_cellular">شبكة الجوال</string>
+    <string name="connectivity_type_ethernet">إيثرنت</string>
+    <string name="connectivity_type_vpn">VPN</string>
+    <string name="connectivity_type_other">اتصال آخر</string>
+    <string name="connectivity_type_unknown">غير معروف</string>
+    <string name="connectivity_type_none">بدون اتصال</string>
+</resources>
